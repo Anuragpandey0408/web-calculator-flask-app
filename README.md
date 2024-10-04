@@ -11,7 +11,7 @@ This repository contains a simple web-based calculator built using Flask, which 
 
 ## Demo
 
-![Calculator UI](https://web-calculator-flask-app.vercel.app/)
+![Calculator UI](https://www.c-sharpcorner.com/UploadFile/BlogImages/03162018030554AM/3.jpg)
 
 *Figure 1: Basic calculator interface with two input fields, operation buttons, and a result display.*
 
