@@ -11,7 +11,7 @@ This repository contains a simple web-based calculator built using Flask, which 
 
 ## Demo
 
-![Calculator UI](static/images/calculator_ui.png)
+![Calculator UI](https://flet.dev/img/docs/calc-tutorial/calc-app-2.png)
 
 *Figure 1: Basic calculator interface with two input fields, operation buttons, and a result display.*
 
